@@ -1,2 +1,1 @@
-# Clase18-AMAA_1
-Actividad de la clase 18, POO class
+# C10_Actividad_Alum1_V3
